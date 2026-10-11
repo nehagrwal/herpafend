@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/herpafend/sitemap.xml
+Sitemap: https://herpafend.vercel.app/sitemap-vercel.xml
+Sitemap: https://herpafend.pages.dev/sitemap-cloudflare.xml
